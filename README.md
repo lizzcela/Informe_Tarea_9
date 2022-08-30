@@ -42,6 +42,13 @@ FILTROS PASIVOS
 
 - CAPÍTULO 17
 
+PARTE 1: CIRCUITOS EN SERIE
+
+SECCIÓN 17–1 Impedancia de circuitos RLC en serie
+
+
+
+
 - CAPÍTULO 18
 
 
